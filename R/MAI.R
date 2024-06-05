@@ -229,7 +229,7 @@ MAI = function(data_miss,
                   Alpha = alpha,
                   Beta = beta,
                   Gamma = gamma
-                )))
+                ), Predictions = predictions))
   }
 
 
